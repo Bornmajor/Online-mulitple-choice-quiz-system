@@ -1,0 +1,212 @@
+nav{
+    background-color: #f1f1f1;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.welcome{
+    display: flex;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    padding:10px;
+    margin:10px;
+}
+.container_home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wel_links_cont{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    flex-direction: column;
+}
+.wel_title{
+    margin:10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.welcome_links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    flex-direction: column;
+    /* flex-direction: column; */
+}
+.role_link{
+    margin:10px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100%;
+    text-decoration: none;
+    color: black;
+
+}
+.role_link:hover{
+    background-color: #e9e2e2;
+    color:black;
+}
+.role_link img{
+ width: 100px;
+}
+.illustration img{
+  max-width: 400px;
+}
+
+
+
+.form_title{
+    font-weight: 400;
+    font-size: 18px;
+    border-radius: 0;
+    /* margin: 10px; */
+
+}
+.main_container{
+    margin: 60px 10px ;
+
+  } 
+
+.btn-primary{
+    background-color: black;
+    margin: 10px 5px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.container_form_login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+   
+}
+
+#login_form,#reg_form{
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+  
+}
+
+
+.exam_container{
+    margin: 10px;
+}
+.exam_session_details{
+    background-color: #f1f1f1;
+    padding:10px;
+    display: flex;
+    flex-direction: column;
+}
+.exam_title{
+    font-size: 25px;
+}
+.exam_duration{
+    font-size: 20px;
+}
+.exam_student{
+    font-size: 18px;
+}
+.quiz{
+  margin:10px;
+}
+.question{
+    font-size: 18px;
+}
+.multichoices{
+    margin-left: 10px;
+}
+
+
+
+.examiner_card{
+    max-width: 340px;
+    margin: 10px;
+    border:1px solid #d2d2d2;
+    display: inline-block;
+    cursor: pointer;
+}
+.examiner_card:hover{
+    background-color: #b9b6b6;
+}
+
+
+.setup_form{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+}
+
+
+.exam_set_item{
+    max-width: 320px;
+    margin: 10px;
+    border:1px solid #d2d2d2;
+    display: inline-block;
+    cursor: pointer; 
+}
+
+.no_row_data{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 20px;
+    padding:40px;
+  }
+  .setup_form{
+    margin:10px;
+    /* background-color:; */
+  }
+
+  .icons{
+    cursor: pointer;
+    font-size:15px;
+    margin:2px;
+    
+}
+.icons:hover{
+    color:red;
+}
+.modal-header{
+    border-bottom:none;
+}
+.total_points{
+    margin:20px;
+  
+}
+.submit_feedback{
+    margin: 40px 30px 30px 30px;
+}
+@media screen and (max-width:710px){
+    .welcome{
+     flex-direction: column-reverse;
+    }
+    .illustration img{
+        width: 100%;
+      }
+
+      
+}
+
+footer{
+background-color:#f1f1f1 ;
+padding:10px 10px 300px  10px;
+
+
+}
