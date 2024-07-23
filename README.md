@@ -51,4 +51,4 @@ Submit Answers:
 
 <img width="947" alt="firefox_3qhyZ8iTHu" src="https://github.com/Bornmajor/Online-mulitple-choice-quiz-system/assets/98744068/48367b23-14c7-4c98-84bf-40a4444ae6e7">
 <img width="947" alt="firefox_yMrAqy5n7I" src="https://github.com/Bornmajor/Online-mulitple-choice-quiz-system/assets/98744068/4b9e2e94-60d3-4215-a5ab-f2bd09a6d115">
-<img width="959" alt="firefox_3OGg2SpWpB" src="https://github.com/Bornmajor/Online-mulitple-choice-quiz-system/assets/98744068/582ff345-8cf2-408e-b735-06126ecba1f8">
+
